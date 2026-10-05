@@ -1,0 +1,3 @@
+﻿  pract_8_Hojaeva.cpp
+C:\Users\st310-05\Documents\Hojaeva_PR-31\pract_8_Hojaeva\pract_8_Hojaeva.cpp(289,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pract_8_Hojaeva.vcxproj -> C:\Users\st310-05\Documents\Hojaeva_PR-31\pract_8_Hojaeva\x64\Debug\pract_8_Hojaeva.exe

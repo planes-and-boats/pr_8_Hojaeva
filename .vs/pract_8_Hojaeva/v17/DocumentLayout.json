@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-05\\Documents\\Hojaeva_PR-31\\pract_8_Hojaeva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B09D206-C9D4-451B-B6DE-2911B8083E75}|pract_8_Hojaeva.vcxproj|C:\\Users\\st310-05\\Documents\\Hojaeva_PR-31\\pract_8_Hojaeva\\pract_8_Hojaeva.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B09D206-C9D4-451B-B6DE-2911B8083E75}|pract_8_Hojaeva.vcxproj|solutionrelative:pract_8_Hojaeva.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pract_8_Hojaeva.cpp",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\Hojaeva_PR-31\\pract_8_Hojaeva\\pract_8_Hojaeva.cpp",
+              "RelativeDocumentMoniker": "pract_8_Hojaeva.cpp",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\Hojaeva_PR-31\\pract_8_Hojaeva\\pract_8_Hojaeva.cpp",
+              "RelativeToolTip": "pract_8_Hojaeva.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T07:22:59.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
